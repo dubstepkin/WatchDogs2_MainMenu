@@ -1,1 +1,10 @@
-
+{
+  "name": "Watch Dogs 2",
+  "description": "Background music from WD2 main menu.",
+  "author": "dubstepkin",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
